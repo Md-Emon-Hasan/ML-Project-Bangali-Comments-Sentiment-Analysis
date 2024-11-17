@@ -17,8 +17,8 @@ body {
     justify-content: center;
     text-align: center;
     padding: 50px;
-    backdrop-filter: blur(10px);
-    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(2px);
+    background: rgba(0, 0, 0, 0.4);
     border-radius: 15px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
@@ -71,7 +71,7 @@ textarea {
     border-radius: 10px;
     padding: 15px;
     border: 1px solid #ccc;
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(0, 0, 0, 0.6);
     color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -93,6 +93,7 @@ textarea:focus {
     font-size: 18px;
     padding: 10px 20px;
     transition: all 0.3s ease;
+    border-radius: 5px;
 }
 
 .btn:hover {
@@ -120,7 +121,7 @@ textarea:focus {
 
 .footer {
     background: rgba(0, 0, 0, 0.8);
-    color: #ffffff;
+    color: #ffcc00;
     text-align: center;
     padding: 10px 0;
     /* position: fixed; */
@@ -150,5 +151,5 @@ textarea:focus {
 }
 
 .footer a:hover {
-    color: #ffcc00;
+    color: #0056b3;
 }

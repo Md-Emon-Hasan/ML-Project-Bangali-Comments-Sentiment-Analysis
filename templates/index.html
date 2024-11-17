@@ -11,7 +11,7 @@
 
 <div class="main-content">
     <div class="container">
-        <h1>Bangali Comments Sentiment Analysis</h1>
+        <h1>Bangali Comments Sentiment Analysis using Machine Learning</h1>
         <h2>Made by Emon Hasan</h2>
 
         <form method="POST" action="/">
@@ -19,7 +19,7 @@
                 <label for="review" class="form-label">Enter Your Comments:</label>
                 <textarea class="form-control" id="review" name="review" rows="4" required>{{ input_review }}</textarea>
             </div>
-            <button type="submit" class="btn btn-primary">Analyze Review</button>
+            <button type="submit" class="btn btn-primary">Analyze Comment</button>
         </form>
 
         {% if result is not none %}
