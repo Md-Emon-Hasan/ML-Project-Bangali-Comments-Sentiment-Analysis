@@ -1,0 +1,6 @@
+pytest
+flask
+gunicorn
+scikit-learn
+nltk
+indicnlp
