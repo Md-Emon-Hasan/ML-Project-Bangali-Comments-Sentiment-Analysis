@@ -2,7 +2,7 @@
 
 Welcome to the **Sentiment Analysis of Bengali Comments** repository! This project uses natural language processing (NLP) and machine learning techniques to analyze sentiment from Bengali customer comments. It classifies comments as positive or negative, providing businesses with actionable insights based on customer feedback.
 
-![cover](https://github.com/user-attachments/assets/1741c8aa-86be-4067-9715-8d9286994c92)
+![cover](https://github.com/user-attachments/assets/7b5415dc-e779-4f9f-a61d-1659cdb7a6ee)
 
 ## 📋 Contents
 
