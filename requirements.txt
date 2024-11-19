@@ -4,3 +4,4 @@ gunicorn
 scikit-learn
 nltk
 indicnlp
+xgboost
